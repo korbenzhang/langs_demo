@@ -1,7 +1,6 @@
-
-CC="gcc"
-
-SRC="hello.cc"
+run: compile 
+	./hello
+	rm hello -f
 
 compile:
-	${CC} hello.cc
+	g++ hello.cc -o hello
