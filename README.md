@@ -1,11 +1,11 @@
-# Program Language Demo
+# Program Languages Demo
 Demo all kinds of progrom languages.
 
 ## Install
 
-`
+``
 	git clone https://github.com/korbenzhang/langs_demo
-`
+``
 
 ## Directory Structure
 
@@ -24,6 +24,6 @@ Demo all kinds of progrom languages.
 
 ## License
 
-	See <LICENSE>
+See [LICENSE](LICENSE)
 
 
