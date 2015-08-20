@@ -1,0 +1,4 @@
+
+run:
+	groovy Hello.groovy
+

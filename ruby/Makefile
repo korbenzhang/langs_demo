@@ -1,0 +1,3 @@
+run:
+	ruby hello.rb
+
