@@ -1,0 +1,2 @@
+usage:
+	echo "make "

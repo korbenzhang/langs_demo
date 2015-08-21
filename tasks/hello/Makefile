@@ -6,6 +6,7 @@ run:c cpp java
 	node hello.js
 	python hello.py
 	groovy hello.groovy
+	go run hello.go
 	
 c:
 	gcc hello.c -o helloc
