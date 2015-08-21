@@ -9,12 +9,15 @@ Demo all kinds of progrom languages.
 
 ## Directory Structure
 
-	langs_demo |
-			   |- c
-			   |- cpp
-			   |- java
-			   |- go
-			   |- ...
+	 |- docs
+	 |- tasks 
+		|- hello
+		|- call_shell
+		|- read_file
+		|- misc
+	 |- Makefile
+	 |- LICENSE
+	 |- README.md
 
 ## TODO
 
